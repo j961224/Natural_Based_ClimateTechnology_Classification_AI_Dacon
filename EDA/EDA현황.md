@@ -118,4 +118,6 @@
 
 ## 2. 각 label마다 불용어 제외하여 많이 분포하는 단어(과제명)
 
-<img width="988" alt="label45" src="https://user-images.githubusercontent.com/59636424/127460722-42d2e880-2337-454f-839f-7c2a2d9503cf.png">
+<img width="993" alt="label0" src="https://user-images.githubusercontent.com/59636424/127460725-40f1660b-db15-4a3f-adb3-7996d3171725.png">
+(label0 단어 분포 그래프)
+: '시스템'이라는 단어가 압도적으로 많고 '3D', '분석', '스마트', '데이터', 'IOT' 등의 단어가 눈에 띈다.
