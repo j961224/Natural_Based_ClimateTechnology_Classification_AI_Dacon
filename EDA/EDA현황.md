@@ -118,7 +118,71 @@
 
 ## 2. 각 label마다 불용어 제외하여 많이 분포하는 단어(과제명)
 
+- **label 0 단어 분포**
 <img width="993" alt="label0" src="https://user-images.githubusercontent.com/59636424/127460725-40f1660b-db15-4a3f-adb3-7996d3171725.png">
-                                                (label0 단어 분포 그래프)
 
 : '시스템'이라는 단어가 압도적으로 많고 '3D', '분석', '스마트', '데이터', 'IOT' 등의 단어가 눈에 띈다.
+
+
+- **label 1과 label 2 단어 분포**
+<img width="988" alt="label1" src="https://user-images.githubusercontent.com/59636424/127460727-fd2ccdf7-d84f-4169-be14-04d07c8feb50.png">
+
+<img width="982" alt="label2" src="https://user-images.githubusercontent.com/59636424/127460730-98a61c11-f49f-4b29-bdd4-a10dbd9fb808.png">
+
+-> label 1은 '원전', '핵연로', '원자력', '방사성폐기물' 단어가 눈에 띄고 '원전'이라는 단어가 압도적으로 많다.
+
+-> label 2는 label 1과 달리 '핵연로'라는 단어가 없고 '플라즈마'라는 단어가 압도적으로 많다.
+
+
+- **label 5 단어 분포**
+<img width="988" alt="label5" src="https://user-images.githubusercontent.com/59636424/127460734-55583c44-d42d-4216-8381-8a77e40b47c6.png">
+
+-> '태양전지', '태양광', '고효율'이라는 단어가 압도적으로 많다. 
+
+-> '차세대', '효율', '친환경'이라는 단어가 존재함을 보아 미래 에너지로 곽광받는 기술로 추정
+
+
+- **label 9 단어 분포**
+<img width="982" alt="label9" src="https://user-images.githubusercontent.com/59636424/127460706-54fc2819-b309-4d36-92ca-e1d1cee85ac0.png">
+
+-> '파력발전', '조류발전시스템', '조류발전'이라는 단어가 많음
+
+-> 해수 관련 단어가 많다!
+
+
+- **label 12 단어 분포**
+<img width="982" alt="label12" src="https://user-images.githubusercontent.com/59636424/127460712-829382c8-5e59-4f6b-8876-501a4091b592.png">
+
+: '촉매', '고효율', '고성능', '차세대' 단어가 많음을 보아 미래 에너지 관련 기술로 추정된다.
+
+
+- **label 14 단어 분포**
+<img width="988" alt="label14" src="https://user-images.githubusercontent.com/59636424/127460713-ad399042-1c60-4ed8-b404-7f6e7a4ad610.png">
+
+: '에너지', '베터리', '차세대', '고성능', '고용량', '전기자동차' 단어로 보았을 때, 미래 에너지 관련 기술인 것으로 추정
+
+
+- **label 18 단어 분포**
+<img width="988" alt="label18" src="https://user-images.githubusercontent.com/59636424/127460714-c598d341-0181-4759-a7ed-e14c9e1ddbfc.png">
+
+: '자율주행', '자동차', '전기차'라는 단어가 많은 것으로 보아 미래형 자동차에 관한 기술이 많아 보임
+
+
+- **label 25 단어 분포**
+<img width="982" alt="label25" src="https://user-images.githubusercontent.com/59636424/127460718-ff39c02a-e13c-45b8-9cd2-99318e89a61b.png">
+
+: '구제역'이라는 단어가 많고 '바이러스', '돼지'라는 단어도 많이 존재한다.
+
+
+- **label 31과 label 32 단어 분포**
+<img width="982" alt="label31" src="https://user-images.githubusercontent.com/59636424/127460719-93b61d28-4fc9-40dd-9efc-77da866d4005.png">
+
+<img width="982" alt="label32" src="https://user-images.githubusercontent.com/59636424/127460721-37f1a6a2-15ce-40fc-b676-9bed3cf78b67.png">
+
+: 두 label 다 '한반도', '예측'이라는 단어가 많고 label 31은 '기후변화'라는 단어가 많지만 label 32는 없다는 것을 알 수 있다.
+
+
+- **label 45 단어 분포**
+<img width="988" alt="label45" src="https://user-images.githubusercontent.com/59636424/127460722-42d2e880-2337-454f-839f-7c2a2d9503cf.png">
+
+: '미세먼지'가 압도적으로 많은 단어를 보여준다.
