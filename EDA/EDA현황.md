@@ -115,3 +115,7 @@
 ![요약문_기대효과 길이](https://user-images.githubusercontent.com/59636424/127447168-298a36fa-2bf2-416f-ab19-b3490705fc9a.png)
 
 : 위의 '요약문_연구내용'과 '요약문_연구목표' 컬럼과 현황이 유사함을 알 수 있다.
+
+## 2. 각 label마다 불용어 제외하여 많이 분포하는 단어(과제명)
+
+<img width="988" alt="label45" src="https://user-images.githubusercontent.com/59636424/127460722-42d2e880-2337-454f-839f-7c2a2d9503cf.png">
